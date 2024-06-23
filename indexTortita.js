@@ -18,7 +18,10 @@ const enData = [
     'the meat is of very good quality but the seasoning makes it even better',
     'the chef is a real stud',
     'the idea for the tortitas at UTHH came from a student with a craving for something new',
-    'some people who eat sandwiches say they are better than the ones at UTHH'
+    'some people who eat sandwiches say they are better than the ones at UTHH',
+    'the sandwiches taste better with salsa verde, you should try them',
+    'the sandwiches last up to 3 days without refrigeration',
+    'if you are a sandwich buyer and wait until the end of the course, you can participate for a prize'
 ];
     
 const esData = [
@@ -26,7 +29,10 @@ const esData = [
     'la carne es de muy buena calidad pero el sazon la mejora aun mas',
     'el cocinero de las tortitas es todo un galan',
     'la idea de las tortitas en la UTHH fue por un estudiante con antojo de algo nuevo',
-    'algunas personas que consumen toritas dicen que son mejores que las de la UTHH'
+    'algunas personas que consumen toritas dicen que son mejores que las de la UTHH',
+    'las tortitas saben mejor con salsa verde, deberias probarlos',
+    'las tortitas aguantan hasta 3 dias sin refrigerarse',
+    'si eres comprador de tortitas y te esperas al fin de curso, podras participar por un premio'
     ];
     
     
